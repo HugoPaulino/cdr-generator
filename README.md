@@ -1,2 +1,3 @@
-# CDRGenerator
-Call Detail Record Generator
+# CDR Generator
+
+This project intends to generate call records automatically.
