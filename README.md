@@ -2,5 +2,6 @@
 
 This project intends to generate call records automatically.
 
-# How to use it
+# Installation instructions
 
+Run 
