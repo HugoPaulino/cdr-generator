@@ -4,4 +4,4 @@ This project intends to generate call records automatically.
 
 # Installation instructions
 
-Run 
+Run python cdr-generator
